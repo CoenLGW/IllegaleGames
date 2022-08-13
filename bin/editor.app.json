@@ -1,0 +1,25 @@
+{
+	"Format":
+	{
+		"Type": "Application",
+		"Version": "1"
+	},
+	"Application":
+	{
+		"ApplicationName": "EMERGENCY 5 Offline Editor",
+		"ApplicationVersion": "4.2.0",
+		"ApplicationTags": "em5 em5_editor editor",
+		"OrganizationName": "Promotion Software GmbH",
+		"OrganizationDomain": "promotion-software.de",
+		"Plugins": "qsf_logic qsf_ai qsf_compositing qsf_game qsf_editor_base qsf_editor em5 em5_editor",
+		"Projects": "qsf em5 em2016 em2017 em20years",
+		"CurrentProject": "em5",
+		"CacheDirectory": "EMERGENCY 5/cache",
+		"ApplicationClassName": "qsf::editor::Application",
+		"Parameters":
+		{
+			"EditorServerHostPort": "offline:4242",
+			"EditorTextureImportDownscaleFactor": "0.5"
+		}
+	}
+}

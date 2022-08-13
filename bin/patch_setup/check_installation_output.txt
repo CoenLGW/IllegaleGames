@@ -1,0 +1,2 @@
+Creating the footprint "../../data/installation_footprint.json" took 2 seconds
+ERROR: The installation checker failed to load "../../data/official_footprint.json": "<unspecified file>: read error"

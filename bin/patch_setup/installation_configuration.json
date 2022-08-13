@@ -1,0 +1,47 @@
+{
+    "Format": {
+        "Type": "InstallationConfiguration",
+        "Version": "1"
+    },
+    "Exclude": {
+		"FileExtensions":
+		[
+			"pdb",
+			"exp",
+			"lib",
+			"app",
+			"lnk",
+			"bat"
+		],
+		"DirectoryNames":
+		[
+			".svn"
+		],
+		"Directories":
+		[
+			"___internal",
+			"bin/_x64r_enduser",
+			"bin/patch_setup",
+			"bin/x64",
+			"bin/x64d",
+			"bin/x64r_macosx",
+			"bin/x86d",
+			"bin/x86",
+			"bin/x86r",
+			"cache",
+			"data",
+			"manual",
+			"sdk",
+			"source"
+		],
+		"Files":
+		[
+			"readme.txt",
+			"_open_application_support",
+			"data/installation_footprint.json",
+			"data/official_footprint.json",
+			"data/patch_journal.json",
+			"data/version.json"
+		]
+    }
+}

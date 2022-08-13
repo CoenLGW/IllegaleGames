@@ -1,0 +1,22 @@
+{
+	"Format":
+	{
+		"Type": "Application",
+		"Version": "1"
+	},
+	"Application":
+	{
+		"ApplicationName": "EMERGENCY 5",
+		"ApplicationVersion": "4.2.0",
+		"ApplicationTags": "em5 em5_game game",
+		"OrganizationName": "Promotion Software GmbH",
+		"OrganizationDomain": "promotion-software.de",
+		"SplashScreenInfoTexts": "false",
+		"Plugins": "qsf_logic qsf_ai qsf_compositing qsf_game em5",
+		"Projects": "qsf em5 em2016 em2017 em20years",
+		"CurrentProject": "em5",
+		"UserDirectory": "EMERGENCY 5",
+		"CacheDirectory": "EMERGENCY 5/cache",
+		"ApplicationClassName": "em5::Application"
+	}
+}
